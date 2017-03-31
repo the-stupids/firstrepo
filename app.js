@@ -1,5 +1,11 @@
 var clientID = status.info.clientID
 
+function hello(name) {
+  return a + name;
+}
+
+var a = 'hello '
+
 var status = {
   name: 'john',
   info: {
